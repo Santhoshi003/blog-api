@@ -40,8 +40,6 @@ blog-api/
 ├── README.md
 └── postman_collection.json (optional)
 
-yaml
-Copy code
 
 ---
 
@@ -51,8 +49,6 @@ Copy code
 git clone https://github.com/<your-username>/blog-api.git
 cd blog-api
 
-yaml
-Copy code
 
 ---
 
